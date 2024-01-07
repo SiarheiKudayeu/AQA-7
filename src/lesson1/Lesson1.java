@@ -6,5 +6,6 @@ public class Lesson1 {
         System.out.println("Hello again AQA-7");
         int x = 1;
         System.out.println(x);
+        System.out.println("Hello again AQA-7");
     }
 }
