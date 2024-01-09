@@ -21,6 +21,7 @@ public class Lesson1Package1 {
         System.out.println("Hello again AQA-7");
 
         int myFirstVariableInTheWorld = 9;
+        int myfirstVariableInTheWorld = 9;
         int variableWithoutInit, secondVariableWithoutInit;
         variableWithoutInit = 3;
         System.out.println(variableWithoutInit);
