@@ -7,9 +7,9 @@ public class StringClass2 {
         upperCaseText = upperCaseText.toLowerCase();
         System.out.println(upperCaseText);
 
-        String lowerCaseText = "lksdnllds@n kdlskn lskd@sl kKKLLK LKJLK";
+        String lowerCaseText = "РолиалиЛОИЛИЛИЛ";
         lowerCaseText = lowerCaseText.toUpperCase();
-        System.out.println(lowerCaseText);
+        System.err.println(lowerCaseText);
 
         //equalsIgnoreCase()
         String lowerCase = "stop";
@@ -32,7 +32,5 @@ public class StringClass2 {
         System.out.println(secondElement);
         System.out.println(stringSpace[2]);
         System.out.println(stringSpace[3]);
-
     }
-
 }
