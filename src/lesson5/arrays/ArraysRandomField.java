@@ -6,7 +6,7 @@ import java.util.Random;
 public class ArraysRandomField {
     public static void main(String[] args) {
         //Варинт1
- /*       Random randomObject = new Random();
+/*        Random randomObject = new Random();
         int randomInt = randomObject.nextInt(10);
         System.out.println(randomInt);
         int[] randomArray = new int[randomInt];
