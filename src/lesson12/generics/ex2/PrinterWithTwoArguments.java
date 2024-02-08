@@ -4,6 +4,10 @@ public class PrinterWithTwoArguments <S, M>{
     private S firstType;
     private M secondType;
 
+/*    public void division(){
+        System.out.println(firstType/secondType);
+    }*/
+
     public PrinterWithTwoArguments(S firstType, M secondType) {
         this.firstType = firstType;
         this.secondType = secondType;

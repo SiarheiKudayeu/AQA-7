@@ -22,7 +22,11 @@ public class ContainerApp {
         int resultIn = genericContainer1.getObject() + genericContainer2.getObject();
         String resultString2 = genericContainer3.getObject() + genericContainer4.getObject();
 
+        System.out.println(genericContainer2.getObject()/genericContainer1.getObject());
+
         //genericContainer1.setObject("Java");
+
+
 
 
     }
