@@ -10,8 +10,5 @@ public class Main {
 
         ownerClass.openUrl1();
         ownerClass.openUrl2();
-
-
-
     }
 }
